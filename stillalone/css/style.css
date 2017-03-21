@@ -73,6 +73,6 @@ a:hover{
   div{width:70%;} 
 }
 @media screen and (max-device-width: 800px) {
-  html { background: url(https://dl.dropboxusercontent.com/u/18499280/stillalone/still-alone-teaser.jpg) #000 no-repeat center center fixed; }
+  html { background: url(https://github.com/thegoldenfilter/stillalone/blob/master/stillalone/still-alone-teaser.jpg) #000 no-repeat center center fixed; }
   #bgvid { display: none; }
 }
